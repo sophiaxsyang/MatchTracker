@@ -1,0 +1,18 @@
+{
+    "matches": [
+        {
+            "team 1": "fnc",
+            "team 2": "c9",
+            "team 1 score": 11,
+            "team 2 score": 13,
+            "map": "Lotus"
+        },
+        {
+          "team 1": "eg",
+          "team 2": "skt",
+          "team 1 score": 10,
+          "team 2 score": 13,
+          "map": "Bind"
+        }
+    ]
+}
